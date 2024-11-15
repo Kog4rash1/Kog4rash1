@@ -1,4 +1,5 @@
 # I'm Kog4rash1(or Kogarashi Tsugura)
+[日本語](./README.ja.md)
 
 ## GitHub Status
 

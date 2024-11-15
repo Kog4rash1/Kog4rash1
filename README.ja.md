@@ -1,4 +1,5 @@
 # Kog4rash1（あるいは 木枯つぐら（こがらし つぐら））
+[English](./README.md)
 
 ## GitHub ステータス
 
