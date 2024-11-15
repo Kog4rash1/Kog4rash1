@@ -2,7 +2,7 @@
 
 ## GitHub ステータス
 
-![Kog4rash1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kog4rash1&show_icons=true&theme=radical)
+![Kog4rash1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kog4rash1&show_icons=true&theme=dark&count_private=true)
 
 ## メインリポジトリ
 
